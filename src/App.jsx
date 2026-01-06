@@ -6,7 +6,6 @@ import Lander from './pages/lander';
 const App = () => {
  
   return <Lander />
-
 }
 
 export default App
