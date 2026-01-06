@@ -17,7 +17,7 @@ const games = [
   { title: 'Africa Drum', image: image2 },
 ]
 
-const Lander = () => {
+const lander = () => {
   return (
     <div className="min-h-screen bg-purple-900">
       <Navbar />
@@ -64,4 +64,4 @@ const Lander = () => {
   )
 }
 
-export default Lander
+export default lander
